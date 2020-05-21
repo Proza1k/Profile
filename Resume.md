@@ -1,7 +1,7 @@
 # Common information
 
 ## Photo
-
+![Image alt](https://github.com/Proza1k/Profile/blob/master/img/images.png)
 ## Name
 
 Vdovin Yaroslav
@@ -37,6 +37,10 @@ Alghoritms, Data structures, OOP
 - Hugo
 - Markdown
 
+## Other
+Jira
+Bootstrap Studio
+
 ## Back-end
 
 - Node.js
@@ -46,7 +50,7 @@ Alghoritms, Data structures, OOP
 - GraphQL
 - Socket.io
 
-## SVN
+## SVC
 
 - Git (GitHub)
 
