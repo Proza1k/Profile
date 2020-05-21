@@ -51,8 +51,11 @@ Bootstrap Studio
 - GraphQL
 - Socket.io
 
-## SVC
+## Other
+Jira
+Bootstrap Studio
 
+## SVС
 - Git (GitHub)
 
 ## DB
@@ -72,7 +75,3 @@ Bootstrap Studio
 
 - Mac OS
 - Windows 10
-
-# Soft-skills
-
-
