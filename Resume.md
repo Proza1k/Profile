@@ -47,7 +47,11 @@ Alghoritms, Data structures, OOP
 - GraphQL
 - Socket.io
 
-## SVN
+## Other
+Jira
+Bootstrap Studio
+
+## SVС
 
 - Git (GitHub)
 
@@ -68,7 +72,4 @@ Alghoritms, Data structures, OOP
 
 - Mac OS
 - Windows 10
-
-# Soft-skills
-
 
