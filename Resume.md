@@ -43,13 +43,13 @@ Jira
 Bootstrap Studio
 
 ## Back-end
-
 - Node.js
 - Express.js
 - REST API
 - CRUD
 - GraphQL
 - Socket.io
+- [x] SQL
 
 ## Other
 Jira
@@ -74,4 +74,4 @@ Bootstrap Studio
 ## OS
 
 - Mac OS
-- Windows 10
+- [x] Windows 10
