@@ -37,6 +37,9 @@ Alghoritms, Data structures, OOP
 - Socket.io
 - Hugo
 - Markdown
+- [x] SCSS
+- [x] CSS
+- [x] HTML
 
 ## Other
 Jira
