@@ -1,6 +1,7 @@
 # Common information
 
 ## Photo
+
 ![Image alt](https://github.com/Proza1k/Profile/blob/master/img/images.png)
 
 ## Name
@@ -32,7 +33,8 @@ Alghoritms, Data structures, OOP
 ## Front-end
 
 - Svelte.js
-- React.js + Redux
+- [x] React.js
+- Redux
 - Sapper.js
 - Socket.io
 - Hugo
@@ -42,10 +44,12 @@ Alghoritms, Data structures, OOP
 - [x] HTML
 
 ## Other
+
 Jira
 Bootstrap Studio
 
 ## Back-end
+
 - Node.js
 - Express.js
 - REST API
@@ -55,10 +59,12 @@ Bootstrap Studio
 - [x] SQL
 
 ## Other
+
 Jira
 Bootstrap Studio
 
 ## SVС
+
 - Git (GitHub)
 
 ## DB
