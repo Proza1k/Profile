@@ -1,6 +1,6 @@
 import React from 'react'
 import UserLogo from './user-logo/Logo'
-import './User.css'
+import './User.scss'
 import IUser from '../../interfaces/IUser'
 
 let user: IUser = {
