@@ -1,0 +1,12 @@
+.user-container {
+  display: flex;
+}
+
+.user-container h1 {
+  margin-right: 5px;
+}
+
+.user-container .user__logo {
+  border-radius: 50%;
+  margin-left: 5px;
+}
