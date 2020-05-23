@@ -1,5 +1,5 @@
 import React from 'react'
-import './Logo.css'
+import './Logo.scss'
 import IUserLogo from '../../../interfaces/IUserLogo'
 
 export default function UserLogo(props: IUserLogo) {
