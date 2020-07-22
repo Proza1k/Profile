@@ -83,3 +83,4 @@ Bootstrap Studio
 
 - Mac OS
 - [x] Windows 10
+- [x] Ubuntu
