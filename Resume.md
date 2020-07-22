@@ -32,7 +32,7 @@ Alghoritms, Data structures, OOP
 
 ## Front-end
 
-- Svelte.js
+- [x] Svelte.js
 - [x] React.js
 - Redux
 - Sapper.js
