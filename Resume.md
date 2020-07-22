@@ -45,8 +45,7 @@ Alghoritms, Data structures, OOP
 
 ## Other
 
-Jira
-Bootstrap Studio
+Jira, Bootstrap Studio
 
 ## Back-end
 
