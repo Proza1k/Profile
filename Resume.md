@@ -38,7 +38,7 @@ Alghoritms, Data structures, OOP
 - Sapper.js
 - Socket.io
 - Hugo
-- Markdown
+- [x] Markdown
 - [x] SCSS
 - [x] CSS
 - [x] HTML
