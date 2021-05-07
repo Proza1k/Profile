@@ -29,6 +29,7 @@ Alghoritms, Data structures, OOP
 - JavaScript (junior level)
 - TypeScript (junior level)
 - C++ (junior level)
+- Python
 
 ## Front-end
 
